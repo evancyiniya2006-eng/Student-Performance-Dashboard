@@ -23,7 +23,8 @@ This project is built using Power BI to analyze student performance.
 * Student ranking
 
  Dashboard Preview
-<img width="1164" height="649" alt="Screenshot 2026-03-24 005214" src="https://github.com/user-attachments/assets/bdec197e-8917-43a1-9ac6-6621fdda4a32" />
+<img width="1162" height="649" alt="Screenshot 2026-03-24 010314" src="https://github.com/user-attachments/assets/dd8a2880-a750-4349-bcbe-774cf1cb3e52" />
+
 
 
 
